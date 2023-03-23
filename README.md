@@ -25,7 +25,7 @@ Back ache programmer primarily working on game systems.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kwagabriel&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwagabriel&layout=compact&theme=tokyonight&show_icons=true&hide=html,scss,css&hide_border=true&card_width=240)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Xiel7.Xiel7)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kwagabriel)
 
 <div>
   <p align = "center">
