@@ -2,13 +2,13 @@
 Back ache programmer primarily working on game systems.
 
 ⚡ Interesting Stuff: 
-- Draws stuff (Mostly Anime) 🖌🎨
-- Goes gym when depressed 🏋️‍♀️ 💪
+- Lorem 🖌🎨
+- Ipsum 🏋️‍♀️ 💪
 
 # 🏢 Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
-| Tech Lead | [GT Business Systems Sdn Bhd](https://globaltrack.my/) | June 2021 - Present|
+| Tech Intern | [Nimbus Games](https://nimbusgames.dev/) | November 2022 - Present|
 
 ### Programming Languages (proficiency in descending order)
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,7 +29,7 @@ Back ache programmer primarily working on game systems.
 
 <div>
   <p align = "center">
-<a href="https://www.linkedin.com/in/eric-ng-boon-lee-641280205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/gabrielkwa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
 </div>
 
