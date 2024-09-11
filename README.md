@@ -9,7 +9,7 @@ Back ache programmer primarily working on game systems.
 | Roles | Company | Duration |
 | --- | --- | --- |
 | Tech Intern | [Nimbus Games](https://nimbusgames.dev/) | November 2022 - May 2023|
-| Tech Junior | [Kaigan Games](https://kaigangames.com/) | Sept 2023 - Present|
+| Developer | [Kaigan Games](https://kaigangames.com/) | Sept 2023 - Present|
 
 ### Programming Languages (proficiency in descending order)
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
